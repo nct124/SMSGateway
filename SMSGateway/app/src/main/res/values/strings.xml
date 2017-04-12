@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS Gateway</string>
+    <string name="server_url">http://</string>
+</resources>

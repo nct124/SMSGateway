@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53381121649",
+    "firebase_url": "https://sms-gateway-a1476.firebaseio.com",
+    "project_id": "sms-gateway-a1476",
+    "storage_bucket": "sms-gateway-a1476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53381121649:android:3c73a34106e5ed30",
+        "android_client_info": {
+          "package_name": "ntu.smsgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53381121649-aobe88f0f75heem5dqc4b14iiun489m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTorr3Ch4cy03KobEBIqkYUab2lWp2xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
